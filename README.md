@@ -2,10 +2,9 @@
 ranjith
 # Hi, I'm Ranjith Gowda B M 👋  
 
-🎓 3rd Year B.Tech in Computer Science (Cybersecurity) at GITAM University  
+🎓 4rd Year B.Tech in Computer Science (Cybersecurity) at GITAM University  
 💻 Aspiring Python Developer | Cybersecurity Enthusiast | Backend Developer  
-🔒 Passionate about Ethical Hacking, Vulnerability Assessment, and Building Secure Applications  
-🌱 Currently learning Ethical Hacking at Hyderabad Hacker Academy  
+🔒 Passionate about Ethical Hacking, Vulnerability Assessment, and Building Secure Applications    
 
 ---
 
@@ -26,6 +25,7 @@ ranjith
 - 🌬️ **Renewable Windmill Project**  
   Designed a small windmill prototype focused on energy conversion and efficiency.  
 
+- 
 ---
 
 ### 📜 Certifications  
